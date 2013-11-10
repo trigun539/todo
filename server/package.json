@@ -1,0 +1,19 @@
+{
+  "name": "Todo",
+  "version": "1.0.0",
+  "description": "Simple todo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"express": "latest",
+  	"ejs": "latest",
+  	"async": "latest",
+  	"mongoose": "latest",
+  	"underscore": "latest",
+  	"connect": "latest"
+  },
+  "author": "Edwin Perez",
+  "license": "BSD"
+}
